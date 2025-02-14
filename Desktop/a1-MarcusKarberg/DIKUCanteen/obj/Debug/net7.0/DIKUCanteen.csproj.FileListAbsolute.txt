@@ -1,0 +1,14 @@
+/Users/marcuskarberg/Desktop/a1-MarcusKarberg/DIKUCanteen/bin/Debug/net7.0/DIKUCanteen
+/Users/marcuskarberg/Desktop/a1-MarcusKarberg/DIKUCanteen/bin/Debug/net7.0/DIKUCanteen.deps.json
+/Users/marcuskarberg/Desktop/a1-MarcusKarberg/DIKUCanteen/bin/Debug/net7.0/DIKUCanteen.runtimeconfig.json
+/Users/marcuskarberg/Desktop/a1-MarcusKarberg/DIKUCanteen/bin/Debug/net7.0/DIKUCanteen.dll
+/Users/marcuskarberg/Desktop/a1-MarcusKarberg/DIKUCanteen/bin/Debug/net7.0/DIKUCanteen.pdb
+/Users/marcuskarberg/Desktop/a1-MarcusKarberg/DIKUCanteen/obj/Debug/net7.0/DIKUCanteen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcuskarberg/Desktop/a1-MarcusKarberg/DIKUCanteen/obj/Debug/net7.0/DIKUCanteen.AssemblyInfoInputs.cache
+/Users/marcuskarberg/Desktop/a1-MarcusKarberg/DIKUCanteen/obj/Debug/net7.0/DIKUCanteen.AssemblyInfo.cs
+/Users/marcuskarberg/Desktop/a1-MarcusKarberg/DIKUCanteen/obj/Debug/net7.0/DIKUCanteen.csproj.CoreCompileInputs.cache
+/Users/marcuskarberg/Desktop/a1-MarcusKarberg/DIKUCanteen/obj/Debug/net7.0/DIKUCanteen.dll
+/Users/marcuskarberg/Desktop/a1-MarcusKarberg/DIKUCanteen/obj/Debug/net7.0/refint/DIKUCanteen.dll
+/Users/marcuskarberg/Desktop/a1-MarcusKarberg/DIKUCanteen/obj/Debug/net7.0/DIKUCanteen.pdb
+/Users/marcuskarberg/Desktop/a1-MarcusKarberg/DIKUCanteen/obj/Debug/net7.0/DIKUCanteen.genruntimeconfig.cache
+/Users/marcuskarberg/Desktop/a1-MarcusKarberg/DIKUCanteen/obj/Debug/net7.0/ref/DIKUCanteen.dll
